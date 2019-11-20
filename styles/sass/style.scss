@@ -1,0 +1,14 @@
+$bg : #f2f2f2;
+
+@import 'base';
+
+body{
+	background-color: $bg;
+}
+
+main p{
+	font-size: $para-size;
+}
+
+
+
