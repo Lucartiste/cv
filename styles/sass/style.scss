@@ -1,13 +1,11 @@
-$bg : #f2f2f2;
-
 @import 'base';
 
-body{
-	background-color: $bg;
+section{
+	height: 100vh;
 }
 
-main p{
-	font-size: $para-size;
+.homepage{
+	background-color: $first-section-color
 }
 
 
